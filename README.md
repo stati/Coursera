@@ -1,4 +1,0 @@
-Coursera
-========
-
-Coursera files
